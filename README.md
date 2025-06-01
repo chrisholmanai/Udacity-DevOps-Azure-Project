@@ -1,13 +1,5 @@
 # Building a CI/CD Pipeline to Azure App Service
 
-## badges
-
-[![CircleCI](https://circleci.com/gh/jfcb853/Udacity-DevOps-Azure-Project-2.svg?style=svg)](https://app.circleci.com/pipelines/github/jfcb853/Udacity-DevOps-Azure-Project-2)
-
-![Python application test with Github Actions](https://github.com/jfcb853/Udacity-DevOps-Azure-Project-2/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
-
-[![Build Status](https://dev.azure.com/javiercaparo574/udacity-project-2/_apis/build/status/jfcb853.Udacity-DevOps-Azure-Project-2?branchName=main)](https://dev.azure.com/javiercaparo574/udacity-project-2/_build/latest?definitionId=6&branchName=main)
-
 ## Introduction
 
 In this project, you will build a Github repository from scratch and create a scaffolding that will assist you in performing both Continuous Integration and Continuous Delivery. You'll use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install cycle. Next, you'll integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
@@ -251,12 +243,7 @@ Remaining screenshots can be checked in the screenshot folder.
 * Using Github Actions instead of Azure pipelines.
 * Run the app on Kubernetes cluster
 
-## YouTube Demo
-
-Link to YouTube Demo Video -> (https://youtu.be/jysGOhOFHTs)
-
 ## License
 
 MIT
 
-**Free Software, Hell Yeah!**
